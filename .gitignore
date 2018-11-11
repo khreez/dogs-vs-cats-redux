@@ -1,0 +1,9 @@
+.idea/
+.ipynb_checkpoints/
+augmented/
+test/
+train/
+
+.DS_Store
+model.h5
+weights.h5
